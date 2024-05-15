@@ -5,7 +5,7 @@
 
 🖥 Service UTOG Web App [app.service.utog.org](https://app.service.utog.org)
 
-📱 Service UTOG Android App [Google Play](https://play.google.com/store/apps/details?id=com.service.utog)
+📱 Service UTOG Android App [💾 arhcive project] [Google Play](https://play.google.com/store/apps/details?id=com.service.utog)
 
 #
 🌱 js, css, html, php, swift, java, kotlin, darts, angularjs, react, laravel, tailwindcss, vuejs
