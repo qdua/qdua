@@ -40,8 +40,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
-![Telegram Bot API](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
-![Systemd](https://img.shields.io/badge/Systemd-000000?style=flat&logo=linux&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) 
 
 #### 📱 Mobile
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
