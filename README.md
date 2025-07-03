@@ -68,8 +68,5 @@
 ---
 
 ### **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 ![qdua's GitHub stats](https://github-readme-stats.vercel.app/api?username=qdua&hide=stars,issues,contribs&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true)
